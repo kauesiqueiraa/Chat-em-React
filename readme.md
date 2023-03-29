@@ -12,4 +12,4 @@
 
 ### Imagem:
 
-![Home](./chat.png)
+![Home](./img/chat.png)
